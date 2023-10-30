@@ -1,0 +1,22 @@
+.login-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    color: white;
+  }
+  
+  .login-header {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
